@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1091365568196",
+    "firebase_url": "https://fir-nav-2a7df.firebaseio.com",
+    "project_id": "fir-nav-2a7df",
+    "storage_bucket": "fir-nav-2a7df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091365568196:android:79ab9a43035af152",
+        "android_client_info": {
+          "package_name": "com.example.firebasenav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091365568196-5cotghvfpfighq0b2fujlqusqc59t8om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwX1h3Iusap93gpI6DMqxfTVFbdrTobD8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
